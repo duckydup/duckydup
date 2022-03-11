@@ -1,4 +1,4 @@
-- 👋 Hi, I’m NATCHANON WANTHONG
+- 👋 Hi, My name is Non. I'm a software engineer based on Tokyo, Japan
 - 👀 I’m interested in Coding, Travel, Frontend Development, Design etc.
 - 🌱 I’m currently learning React, Js, CICD, Web/App Development 
 
